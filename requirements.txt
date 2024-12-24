@@ -3,3 +3,4 @@ ipykernel
 yfinance
 seaborn
 statsmodels
+yahoo_fin
