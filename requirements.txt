@@ -4,3 +4,4 @@ yfinance
 seaborn
 statsmodels
 yahoo_fin
+backtrader
